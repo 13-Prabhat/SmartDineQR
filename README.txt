@@ -1,0 +1,1 @@
+This is a college Java project: QR code-based food ordering system with local simulation. Created by Prabhat.
